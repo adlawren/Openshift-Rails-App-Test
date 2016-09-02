@@ -1,0 +1,17 @@
+development:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: rails_app_test_development
+  pool: 5
+  username: rails
+  password: password1
+
+test:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: rails_app_test_test
+  pool: 5
+  username: rails
+  password: password1
