@@ -1,2 +1,2 @@
 # Openshift-Rails-App-Test
-Can confirm
+A sample application which can be deployed to an Openshift Rails 4 instance
